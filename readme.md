@@ -22,14 +22,14 @@
 
 ## TDD
 
-1. Write the test
-2. Make it compile
-3. Watch it fail
-4. Make it pass
-5. Refactor
+1. Ecrire le test
+1. Le faire compiler
+1. Regardez-le échouer
+1. Le faire réussir
+1. Refactoriser avec
    - SOLID
-   - 9 OC Rules
-6. Replay test
+   - Règles d'OC
+1. Relancer le test
 
 > L'objectif de ce Kata est d'implémenter les règles du jeu de la vie
 
